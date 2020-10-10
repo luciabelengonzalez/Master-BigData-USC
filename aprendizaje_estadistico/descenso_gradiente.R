@@ -1,6 +1,6 @@
 #Algortimo de descenso de gradiente
 
-#Función objetivo
+#FunciÃ³n objetivo
 f = function(x, y)(0.5*(x**2 +y**2))
 
 #Definimos el vector gradiente
